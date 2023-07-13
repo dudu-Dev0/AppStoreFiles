@@ -1,0 +1,35 @@
+{
+    "result":"Get App List Successfully,Enjoy!",
+    "version":1,
+    "appList":[
+        {
+            "id":1,
+            "name":"WearBili",
+            "author":"SpaceXC",
+            "version":"1",
+            "minSdk":25,
+            "introduction":"A Bilibili client for watch",
+            "downloadUrl":"https://apk31.tj-zyhc.com:8010/apk/d4/75/cn.spacexc.wearbili.apk",
+            "isEncrypted":false,
+            "password":"",
+            "urlType":"lanzou",
+            "pics":[
+                
+            ]
+        {
+            "id":1,
+            "name":"腕上哔哩",
+            "author":"luern0313",
+            "version":"1",
+            "minSdk":25,
+            "introduction":"A Bilibili client for watch",
+            "downloadUrl":"https://apk31.tj-zyhc.com:8010/apk/d4/75/cn.spacexc.wearbili.apk",
+            "isEncrypted":false,
+            "password":"",
+            "urlType":"lanzou",
+            "pics":[
+                
+            ]
+        }
+    ]
+}
